@@ -1,3 +1,5 @@
+This was born out of an insane attempt to copy something very fast. You should very likely ignore this.
+
 # Installing moonshine-copy
 ```
 git clone https://github.com/mglantz/moonshine-copy
