@@ -1,4 +1,4 @@
-This was born out of an insane attempt to copy something very fast. You should very likely ignore this.
+This was born out of an insane attempt to copy something faster than 'cp'. You should very likely ignore this.
 
 # Installing moonshine-copy
 ```
